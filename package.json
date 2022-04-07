@@ -6,7 +6,11 @@
   "types": "lib/index.d.ts",
   "files": ["lib/**/*"],
   "scripts": {
-    "build": "tsc --watch"
+    "build": "tsc",
+    "build:watch": "tsc --watch"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
