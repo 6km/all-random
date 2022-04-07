@@ -26,6 +26,7 @@ $ npm install all-random
 | 🔮 randomEmoji()   |                                    | string  |
 | 📝 randomString()  | **length**: length of the string   | string  |
 | 🔢 randomInt()     | **max**: maximum number            | number  |
+| 🎨 randomColor()   |                                    | string  |
 
 </div>
 
