@@ -10,7 +10,7 @@
 ## Installation
 You can install all-random with npm by running:
 ```
-$npm install all-random
+$ npm install all-random
 ```
 
 <br>
