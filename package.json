@@ -1,0 +1,33 @@
+{
+  "name": "all-random",
+  "version": "1.0.0",
+  "description": "A package that helps you with everything related to randomness",
+  "main": "index.js",
+  "types": "lib/index.d.ts",
+  "files": ["lib/**/*"],
+  "scripts": {
+    "build": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6km/all-random.git"
+  },
+  "keywords": [
+    "random",
+    "randomness",
+    "integer",
+    "number",
+    "string",
+    "randomize",
+    "generate"
+  ],
+  "author": "Mohammed Taha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/6km/all-random/issues"
+  },
+  "homepage": "https://github.com/6km/all-random#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
