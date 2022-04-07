@@ -4,10 +4,10 @@ import randomEmoji from "./randomEmoji"
 import randomInt from "./randomInt"
 import randomString from "./randomString"
 
-export default Object.assign({}, {
+export default {
     ...randomEmoji,
     ...randomInt,
     ...randomBoolean,
     ...randomString,
     // ...randomColor
-})
+}
