@@ -7,6 +7,15 @@
 <br>
 <br>
 
+## Installation
+You can install all-random with npm by running:
+```
+$npm install all-random
+```
+
+<br>
+<br>
+
 <h4 align="center">Methods List</h4>
 
 <div align="center">
