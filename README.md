@@ -9,7 +9,7 @@ A package that helps you with everything related to randomness 🔄
 
 ### Methods
 | Method             | args                              | returns |
-| :---               | :-------:                         | :-----: |
+| :---               | :-------                         | :-----: |
 | 👍 randomBoolean() |                                   | boolean |
 | ✨ randomEmoji()  |                                    | string  |
 | 📝 randomString() | **length**: length of the string   | string  |
