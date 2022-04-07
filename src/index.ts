@@ -9,5 +9,5 @@ export default {
     ...randomInt,
     ...randomBoolean,
     ...randomString,
-    // ...randomColor
+    ...randomColor
 }
