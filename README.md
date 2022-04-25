@@ -20,13 +20,16 @@ $ npm install all-random
 
 <div align="center">
 
-| Method             | args                               | returns |
-| :---               | :-------                           | :-----: |
-| 👍 randomBoolean() |                                    | boolean |
-| 🔮 randomEmoji()   |                                    | string  |
-| 📝 randomString()  | **length**: length of the string   | string  |
-| 🔢 randomInt()     | **max**: maximum number            | number  |
-| 🎨 randomColor()   |                                    | string  |
+| Method               | args                                           | returns  |
+| :---                 | :-------                                       | :-----:  |
+| 👍 randomBoolean()   |                                                | boolean  |
+| 🔮 randomEmoji()     |                                                |  string  |
+| 📝 randomString()    | **length**: length of the string (default: 8)  |  string  |
+| 🔢 randomInt()       | **max**: maximum number (default: 100)         |  number  |
+| 🎨 randomColor()     |                                                |  string  |
+| 🎯 randomArrayItem() | **array**                                      |   any    |
+| 😺 randomAnimal()    |                                                |  string  |
+| 🌍 randomCountry()   |                                                |  object  |
 
 </div>
 

@@ -1,10 +1,12 @@
 {
   "name": "all-random",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "description": "A package that helps you with everything related to randomness",
   "main": "index.js",
   "types": "lib/index.d.ts",
-  "files": ["lib/**/*"],
+  "files": [
+    "lib/**/*"
+  ],
   "scripts": {
     "build": "tsc",
     "build:watch": "tsc --watch"
@@ -30,5 +32,8 @@
   "homepage": "https://github.com/6km/all-random#readme",
   "devDependencies": {
     "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
   }
 }
