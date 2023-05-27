@@ -2,7 +2,7 @@
   "name": "all-random",
   "version": "1.2.1",
   "description": "A package that helps you with everything related to randomness",
-  "main": "index.js",
+  "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
     "lib/**/*"
